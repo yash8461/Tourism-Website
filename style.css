@@ -8,7 +8,7 @@ header{
 	height: 100vh;
 	background: url(images/Adams-Peak-2.jpg);
 	background-size: cover;
-	background-position: center center;
+	
 	background-attachment: fixed;
 }
 nav{
