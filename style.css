@@ -12,9 +12,7 @@ header{
 	background-attachment: fixed;
 }
 nav{
-	width: 100%;
-	height: auto;
-	color: #fff;
+	
 	z-index: 999;
 }
 .upper_navbar{
